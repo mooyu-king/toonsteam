@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"static/chunks/app/layout-d2648e253e85f5b5.js"
+3:I[6853,["177","$2"],"default"]
+4:I[781,[],""]
+5:I[6617,[],""]
+6:I[5869,["177","$2"],""]
+d:"static/chunks/53-34c8182209d3f605.js"
+e:"static/chunks/app/browse/page-e3b484ec592a9cf9.js"
+f:I[1419,["53","$d","741","$e"],"default"]
+10:I[4016,[],"OutletBoundary"]
+11:"$Sreact.suspense"
+14:"ViewportBoundary"
+15:I[4016,[],"$14"]
+16:"MetadataBoundary"
+17:I[4016,[],"$16"]
+:HL["/_next/static/css/2991532cf8fd4e38.css","style"]
+:HL["/brand.svg","image"]
+8:X
+b:X
+b:C
+c:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","main",null,{"id":"main","className":"container directory","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://toonstream.wiki/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Catalog\",\"item\":\"https://toonstream.wiki/browse/\"}]}"}}],["$","nav",null,{"className":"breadcrumb","aria-label":"Breadcrumb","children":[["$","a",null,{"href":"/","children":"Home"}]," / Catalog"]}],["$","h1",null,{"children":"Explore the anime catalog."}],["$","p",null,{"className":"muted","children":"150 series · 50 movies · Search across every page."}],["$","$Lf",null,{}]]}],null,["$","$L10",null,{"children":["$","$11",null,{"name":"Next.MetadataOutlet","children":"$@12"}]}]]}],"p":"$@13","v":null,"s":"$8"}}]]
+9:[["children",{"s":"browse","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@a","v":"$b","s":"$8"},"c":"$Qc"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/2991532cf8fd4e38.css","precedence":"next"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main","children":"Skip to content"}],["$","$L3",null,{}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"WebSite\",\"name\":\"Toonstream Wiki\",\"url\":\"https://toonstream.wiki/\",\"description\":\"An independent guide to selected anime and platform listings.\"}"}}],["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","main",null,{"id":"main","className":"prose","children":[["$","span",null,{"className":"eyebrow","children":"404 · A DIFFERENT TURN"}],["$","h1",null,{"children":"This page isn’t in our collection."}],["$","p",null,{"children":"The link may be outdated. Our shortlist is a good place to start again."}],["$","a",null,{"className":"button","href":"/#browse","children":"Browse selected anime"}]]}],[]]}],["$","footer",null,{"className":"site-footer","children":[["$","div",null,{"className":"footer-grid","children":[["$","div",null,{"children":[["$","a",null,{"href":"/","className":"brand","children":[["$","img",null,{"src":"/brand.svg","width":"32","height":"32","alt":""}],"toonstream",["$","span",null,{"className":"brand-wiki","children":".wiki"}]]}],["$","p",null,{"children":["A little less searching.",["$","br",null,{}],"A little more discovering."]}],["$","p",null,{"className":"small muted","children":"An independent guide. Not affiliated with Toonstream or the platforms we link to."}]]}],["$","div",null,{"className":"footer-links","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Explore"}],["$","a",null,{"href":"/#browse","children":"Featured anime"}],["$","a",null,{"href":"/browse/","children":"All 200 titles"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Resources"}],["$","a",null,{"href":"/toonstream-access-guide/","children":"Access guide"}],["$","a",null,{"href":"/toonstream-alternatives/","children":"Alternatives"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Contact & info"}],["$","a",null,{"href":"/about/","children":"About Us"}],["$","a",null,{"href":"/privacy/","children":"Privacy Policy"}],["$","a",null,{"href":"/contact/","children":"Contact"}],["$","a",null,{"href":"/terms/","children":"Terms of Service"}]]}]]}]]}],["$","div",null,{"className":"copyright","children":["© 2026 Toonstream Wiki ",["$","span",null,{"children":"Independent information. Thoughtfully curated."}]]}]]}],["$","$L6",null,{"src":"https://data.1back.link/js/app.js","strategy":"afterInteractive","data-domain":"toonstream.wiki","data-api":"https://data.1back.link/api/send"}]]}]}]]}],"p":"$@7","v":null,"s":"$8"},"c":"$Q9"},"h":{"r":["$","$1","h",{"children":[null,["$","$L15",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L17",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$11",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Browse 200 Anime Titles | Toonstream Wiki"}],["$","meta","1",{"name":"description","content":"Explore 200 anime releases by name, alias, format and genre. Compare release details and find title-information sources."}],["$","link","2",{"rel":"manifest","href":"/site.webmanifest"}],["$","link","3",{"rel":"canonical","href":"https://toonstream.wiki/browse/"}],["$","meta","4",{"property":"og:title","content":"Browse 200 Anime Titles | Toonstream Wiki"}],["$","meta","5",{"property":"og:description","content":"Explore 200 anime releases by name, alias, format and genre. Compare release details and find title-information sources."}],["$","meta","6",{"property":"og:url","content":"https://toonstream.wiki/browse/"}],["$","meta","7",{"property":"og:site_name","content":"Toonstream Wiki"}],["$","meta","8",{"property":"og:locale","content":"en_US"}],["$","meta","9",{"property":"og:image","content":"https://toonstream.wiki/images/toonstream-wiki-social.webp"}],["$","meta","10",{"property":"og:image:alt","content":"Toonstream Wiki — Anime catalog and viewing guides"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Browse 200 Anime Titles | Toonstream Wiki"}],["$","meta","14",{"name":"twitter:description","content":"Explore 200 anime releases by name, alias, format and genre. Compare release details and find title-information sources."}],"$L18","$L19","$L1a","$L1b"]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$8"}},"a":"$@1d","u":"$@1e","b":"XeM2LG26etXFd7QVw79nU"}
+1f:I[5865,[],"IconMark"]
+12:null
+18:["$","meta","15",{"name":"twitter:image","content":"https://toonstream.wiki/images/toonstream-wiki-social.webp"}]
+19:["$","link","16",{"rel":"icon","href":"/brand.svg"}]
+1a:["$","link","17",{"rel":"apple-touch-icon","href":"/icon-192.png"}]
+1b:["$","$L1f","18",{}]
+8:300
+1e:true
+8:C
+1d:0
+a:"$undefined"
+7:"$undefined"
+1c:"$undefined"
+13:"$undefined"

@@ -1,0 +1,17 @@
+.git
+.git/**
+README.md
+wrangler.jsonc
+.assetsignore
+**/*.map
+README*
+.github/**
+.wrangler/**
+node_modules/**
+.env*
+.dev.vars*
+HANDOFF.md
+AGENTS.md
+docs/**
+*.log
+.gitignore
