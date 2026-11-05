@@ -2,4 +2,4 @@
 :HL["/brand.svg","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"terms","s":["_not-found","_global-error","anime","browse","robots.txt","sitemap.xml"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"XeM2LG26etXFd7QVw79nU","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"LHaivZtl3flElXFt0dOZY","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

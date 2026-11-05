@@ -4,4 +4,4 @@
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"d","k":"log-horizon","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"anime","h":131168,"c":"$Q2"}]]
-0:{"b":"XeM2LG26etXFd7QVw79nU","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"LHaivZtl3flElXFt0dOZY","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
